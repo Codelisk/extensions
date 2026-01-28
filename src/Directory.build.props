@@ -1,6 +1,6 @@
 <Project>
     <PropertyGroup>
-        <BaseTargetFramework>net9.0</BaseTargetFramework>
+        <BaseTargetFramework>net10.0</BaseTargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <PackageReadmeFile>readme.md</PackageReadmeFile>
